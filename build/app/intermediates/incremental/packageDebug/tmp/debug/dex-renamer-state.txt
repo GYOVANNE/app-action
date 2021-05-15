@@ -1,0 +1,4 @@
+#Fri May 14 18:45:24 BRT 2021
+base.0=/home/gyovanne/JFRN/f_converter_2_ext/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
